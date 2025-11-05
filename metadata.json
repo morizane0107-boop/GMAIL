@@ -1,0 +1,5 @@
+{
+  "name": "スマート受信トレイ整理 (Smart Inbox Organizer)",
+  "description": "Gemini AIを使用して、受信トレイから冗長、宣伝、不要なメールを特定し、整理を支援するアプリケーションです。これは実際のGmailアカウントには接続しないシミュレーションです。",
+  "requestFramePermissions": []
+}
